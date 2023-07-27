@@ -1,0 +1,16 @@
+z-HIDE
+admin/3rdParty
+admin/lib
+admin/media
+admin/plugins
+admin/uploads
+admin/vendor
+.htaccess
+.DS_Store
+cgi-bin
+z-HIDE
+x-old
+z-old
+x-bak
+z-bak
+

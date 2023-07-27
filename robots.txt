@@ -1,0 +1,8 @@
+# /robots.txt file for http://www.colombiaenpittsburgh.org/
+
+User-agent: *
+Disallow: /_private
+Disallow: /stats
+Disallow: /templates
+Disallow: /colombia/map.php
+Disallow: /colombia/map.gif
